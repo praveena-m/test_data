@@ -1,5 +1,5 @@
 {
-
+"Task": {
     "name": {
       "string": {}
     },   
@@ -12,5 +12,5 @@
     "isComplete": {
       "boolean": {}
     }
-  
+}
 }
