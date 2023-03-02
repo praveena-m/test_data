@@ -1,0 +1,16 @@
+{
+
+    "name": {
+      "string": {}
+    },   
+    "id": {
+      "int": {
+        "min": 0,
+        "max": 100
+      }
+    },
+    "isComplete": {
+      "boolean": {}
+    }
+  
+}
